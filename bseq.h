@@ -1,7 +1,6 @@
 #ifndef MM_BSEQ_H
 #define MM_BSEQ_H
 
-#include <cstdint>
 #include <stdint.h>
 #include <string.h>
 
